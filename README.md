@@ -3,4 +3,4 @@ I've always been a big fan of integrating data analysis tools. I derive great pl
 
 • A Power-point presentation is provided with instructions on how to replicate these steps on your local machine using _`R`_ and __Power BI__
 
-• The R sripts may be copied and pasted straight into the POWER BI query editors. 
+• The R scripts may be copied and pasted straight into the POWER BI query editors. 
